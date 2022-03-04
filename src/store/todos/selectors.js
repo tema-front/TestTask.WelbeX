@@ -1,0 +1,1 @@
+export const getTodosList = (state) => state.stateTodos.todosList
